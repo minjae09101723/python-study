@@ -45,3 +45,7 @@ print(l)
     - 방화벽 설정
   - history
     - 명령어 history
+  -rm 파일이름
+    -파일지우기
+  -rm 파일이름 -rf
+    -디렉토리 지우기
