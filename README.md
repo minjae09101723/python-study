@@ -27,4 +27,21 @@ print(l)
  $ sudo apt-get install ibus ibus-hangul
  $ sudo reboot
  -> iBus 환경설정
- 
+- 기본 디렉토리 명령어
+  - ls
+    - 현재 경로 파일 리스트
+  - cd
+    - 디렉토리 변경
+  - mkdir
+    - 디렉토리 생성
+  - pwd
+    - 현재 디렉토리
+- 운영 관련 명령어
+  - ps -aux
+    - 현재 실행중인 프로세스
+  - netstat -tnl
+    - 현재 사용중인 TCP 포트
+  - ufw
+    - 방화벽 설정
+  - history
+    - 명령어 history
